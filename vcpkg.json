@@ -1,0 +1,11 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "dependencies": [
+        {
+            "name": "libssh",
+            "platform": "windows"
+        }
+    ],
+    "builtin-baseline": "2dc91c6439568f694052c3fa25859dc78d9ff8e4"
+}

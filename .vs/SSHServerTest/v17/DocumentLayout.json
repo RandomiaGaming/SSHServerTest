@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ImportantData\\Coding\\EpsilonTheatrics\\SSHServerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32286D-D672-4841-BEC5-7C45F1AE2017}|SSHServerTest.vcxproj|D:\\ImportantData\\Coding\\EpsilonTheatrics\\SSHServerTest\\SSHServerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD32286D-D672-4841-BEC5-7C45F1AE2017}|SSHServerTest.vcxproj|solutionrelative:SSHServerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SSHServerTest.cpp",
+              "DocumentMoniker": "D:\\ImportantData\\Coding\\EpsilonTheatrics\\SSHServerTest\\SSHServerTest.cpp",
+              "RelativeDocumentMoniker": "SSHServerTest.cpp",
+              "ToolTip": "D:\\ImportantData\\Coding\\EpsilonTheatrics\\SSHServerTest\\SSHServerTest.cpp",
+              "RelativeToolTip": "SSHServerTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T01:17:05.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

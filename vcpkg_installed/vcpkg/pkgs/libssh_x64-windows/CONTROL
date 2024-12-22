@@ -1,0 +1,20 @@
+Package: libssh
+Version: 0.10.6
+Depends: openssl, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: bf47ba49e5e50de3e581dc7b1bc98f6ea2d4c20df99dc5c24e233ae9a19265a8
+Description: libssh is a multiplatform C library implementing the SSHv2 protocol on client and server side
+Default-Features: pcap, server
+
+Package: libssh
+Feature: pcap
+Architecture: x64-windows
+Multi-Arch: same
+Description: SSH server support
+
+Package: libssh
+Feature: server
+Architecture: x64-windows
+Multi-Arch: same
+Description: Pcap generation support

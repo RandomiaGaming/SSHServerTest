@@ -1,0 +1,35 @@
+-- Downloading https://github.com/openssl/openssl/archive/openssl-3.4.0.tar.gz -> openssl-openssl-openssl-3.4.0.tar.gz...
+-- Extracting source C:/Users/RandomiaGaming/AppData/Local/vcpkg/downloads/openssl-openssl-openssl-3.4.0.tar.gz
+-- Applying patch cmake-config.patch
+-- Applying patch command-line-length.patch
+-- Applying patch script-prefix.patch
+-- Applying patch asm-armcap.patch
+-- Applying patch windows/install-layout.patch
+-- Applying patch windows/install-pdbs.patch
+-- Applying patch unix/android-cc.patch
+-- Applying patch unix/move-openssldir.patch
+-- Applying patch unix/no-empty-dirs.patch
+-- Applying patch unix/no-static-libs-for-shared.patch
+-- Using source at D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/blds/openssl/src/nssl-3.4.0-821e8e5bdc.clean
+-- Downloading https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54001_64bit_UCRT/strawberry-perl-5.40.0.1-64bit-portable.zip -> strawberry-perl-5.40.0.1-64bit-portable.zip...
+-- Found external ninja('1.12.1').
+-- Getting CMake variables for x64-windows
+-- Downloading https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/win64/nasm-2.16.01-win64.zip;https://gstreamer.freedesktop.org/src/mirror/nasm-2.16.01-win64.zip;https://vcpkg.github.io/assets/nasm/nasm-2.16.01-win64.zip -> nasm-2.16.01-win64.zip...
+-- Getting CMake variables for x64-windows
+-- Downloading https://download.qt.io/official_releases/jom/jom_1_1_4.zip;https://mirrors.ocf.berkeley.edu/qt/official_releases/jom/jom_1_1_4.zip;https://mirrors.ukfast.co.uk/sites/qt.io/official_releases/jom/jom_1_1_4.zip -> jom_1_1_4.zip...
+-- Prerunning x64-windows-dbg
+-- Building x64-windows-dbg
+-- Prerunning x64-windows-rel
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/libcrypto.pc
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/libssl.pc
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/openssl.pc
+-- Downloading https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://repo.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirror.selfnet.de/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst -> msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst...
+-- Downloading https://mirror.msys2.org/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst;https://repo.msys2.org/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst;https://mirror.selfnet.de/msys2/msys/x86_64/msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst -> msys2-msys2-runtime-3.5.3-3-x86_64.pkg.tar.zst...
+-- Using msys root at C:/Users/RandomiaGaming/AppData/Local/vcpkg/downloads/tools/msys2/1e74ca60daa10104
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/libcrypto.pc
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/libssl.pc
+-- Fixing pkgconfig file: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/openssl.pc
+-- Installing: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/share/openssl/usage
+-- Installing: D:/ImportantData/Coding/EpsilonTheatrics/SSHServerTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/share/openssl/copyright
+-- Performing post-build validation
